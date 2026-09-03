@@ -1,5 +1,5 @@
-<h1 style="display: flex; aligh-itens: center;">
-  <img src="img/olho logo.png" width="50" alt="Logo Delicadeza Baby">
+<h1>
+  <img src="img/olho logo.png" width="35" alt="Logo Delicadeza Baby">
   Visionários
 </h1>
 
