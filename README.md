@@ -1,4 +1,7 @@
-# Visionários
+<h1>
+  <img src="img/olho_logo" width="60" alt="Logo Delicadeza Baby">
+  Visionários
+</h1>
 
 Plataforma educacional desenvolvida para reunir recursos de apoio aos estudos e facilitar a organização de atividades acadêmicas, com áreas para alunos, professores e suporte administrativo.
 
