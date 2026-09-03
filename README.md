@@ -1,5 +1,5 @@
 <h1>
-  <img src="img/olho logo" width="60" alt="Logo Delicadeza Baby">
+  <img src="img/olho logo.png" width="60" alt="Logo Delicadeza Baby">
   Visionários
 </h1>
 
